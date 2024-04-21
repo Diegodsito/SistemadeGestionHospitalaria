@@ -25,7 +25,7 @@ Atender al siguiente paciente.
 
 //Posibles Problemas//
 
-El programa a veces tiende a repetir "Presiona una tecla para continuar" o instrucciones que ya se solicitaron. Esto se puede solucionar volviendo a presionar la tecla o volviendo a ingresar el dato si se solicita nuevamente. Aun se busca la causa de este problema.
+El programa a veces tiende a repetir instrucciones que ya se solicitaron. Esto se puede solucionar volviendo a ingresar el dato si se solicita nuevamente. Aun se busca la causa de este problema.
 
 //A mejorar//
 

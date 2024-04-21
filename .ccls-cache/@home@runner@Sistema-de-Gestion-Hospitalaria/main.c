@@ -81,7 +81,6 @@ void mostrar_lista_pacientes(List *pacientes){
   tipoPaciente* actual = list_first(pacientes);
   if(!actual){  //Validacion si se encuentran pacientes
     printf("No hay pacientes registrados\n\n");
-    presioneTeclaParaContinuar();
     return;
   }
   
@@ -145,7 +144,6 @@ void atender_paciente(List *pacientes){
   tipoPaciente* actual = list_first(pacientes);
   if(!actual){ //Validacion si se encuentran pacientes
     printf("No hay pacientes registrados\n\n");
-    presioneTeclaParaContinuar();
     return;
   }
 
